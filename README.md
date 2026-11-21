@@ -12,4 +12,4 @@ Raw URL (public, often served as `application/octet-stream`):
 
 `https://raw.githubusercontent.com/ats-business-hub/rin-petit-media/main/videos/{file}`
 
-Carousel slides live under `set-a/` and `set-b/`.
+Carousel slides live under `set-a/`, `set-b/`, `set-c/`, and `set-d/`.
